@@ -23,15 +23,25 @@ Mount System Volume:
 
 Execute the Script:
 1. Enter the following commands, one by one:
+
 curl -sSL https://raw.githubusercontent.com/philippeviennecouture/Gab/main/MDM.sh
+
 chmod +x MDM.sh
+
 ./MDM.sh
 
+
 When script completes enter: 
+
 reboot
+
    
 At login screen:
-Select user: Gabriel
-Password: passwordtemp
+
+Select user: 
+Gabriel
+
+Password: 
+passwordtemp
 
 Immediately change password after login
