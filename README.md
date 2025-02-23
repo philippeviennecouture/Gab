@@ -19,7 +19,7 @@ Mount System Volume:
 Prepare Script Execution:
 1. Open Terminal
 2. Enter:
-curl -O https://raw.githubusercontent.com/yourusername/repo/main/script.sh
+curl -O https://raw.githubusercontent.com/philippeviennecouture/Gab/main/MDM.sh
 chmod +x script.sh
 3. Run script with:
 ./script.sh
