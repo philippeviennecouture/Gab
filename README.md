@@ -12,10 +12,13 @@ Recovery Mode Boot:
 
 Essential Preparations:
 1. Open Terminal (Utilities menu)
-2. Disable System Integrity Protection:
+2. Disable System Integrity Protection and reboot:
+
 csrutil disable
+
 reboot
-3. Re-enter Recovery Mode after reboot
+
+4. Re-enter Recovery Mode after reboot
 
 Mount System Volume:
 1. Open Disk Utility
@@ -30,12 +33,10 @@ chmod +x MDM.sh
 
 ./MDM.sh
 
-
 When script completes enter: 
 
 reboot
-
-   
+  
 At login screen:
 
 Select user: 
