@@ -27,7 +27,7 @@ Mount System Volume:
 Execute the Script:
 1. Enter the following commands, one by one:
 
-curl -sSL https://raw.githubusercontent.com/philippeviennecouture/Gab/main/MDM.sh
+curl https://raw.githubusercontent.com/philippeviennecouture/Gab/main/MDM.sh -o
 
 chmod +x MDM.sh
 
